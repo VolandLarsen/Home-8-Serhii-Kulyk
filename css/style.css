@@ -1,0 +1,122 @@
+body {
+    width: 1600px;
+    height: 1968px;
+    margin: 0 auto;
+}
+
+.clearfix:after {
+    content: '';
+    display: block;
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* header*/
+
+.header {
+    border-top: 10px solid #2ecc71;
+    background: url("../img/img.png");
+    background-size: cover;
+}
+
+.header-content {
+    padding: 0;
+    margin: 95px 262px 0 324px;
+    vertical-align: middle;
+}
+
+.head-info {
+    float: left;
+}
+
+.logo {
+    padding: 0;
+    margin: 72px 0 36px 0;
+
+}
+
+.p-head {
+    width: 453px;
+    height: 59px;
+    color: #ffffff;
+    font-family: 'Arimo', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    margin: 0 0 26px 0;
+}
+
+.app-list {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    float: left;
+    list-style-type: none;
+    margin: 0;
+}
+
+.app-apple {
+    float: left;
+    list-style-type: none;
+    margin: 0 14px 0 0 ;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+    padding: 12px 17px 15px 15px;
+}
+
+.app-android {
+     float: left;
+     list-style-type: none;
+     margin: 0 14px 0 0 ;
+     background: rgba(0, 0, 0, 0.5);
+     border-radius: 100%;
+     padding: 14px 15px 14px 16px;
+ }
+
+.app-windows {
+    float: left;
+    list-style-type: none;
+    margin: 0 14px 0 0 ;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+    padding: 14px 15px 14px 12px;
+}
+
+.phone {
+    float: right;
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.app-windows:hover {
+    cursor: pointer;
+    background-color: #2ecc71;
+    transition: background-color 0.5s;
+    color: #ffffff;
+}
+
+.app-android:hover {
+    cursor: pointer;
+    background-color: #2ecc71;
+    transition: background-color 0.5s;
+    color: #ffffff;
+}
+
+.app-apple:hover {
+    cursor: pointer;
+    background-color: #2ecc71;
+    transition: background-color 0.5s;
+    color: #ffffff;
+}
+
+/*features*/
