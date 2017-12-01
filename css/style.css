@@ -18,6 +18,166 @@ body {
     margin: 0 auto;
 }
 
+@font-face {
+    font-family: "HelveticaRegular";
+    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot");
+    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaRegular/HelveticaRegular.woff") format("woff"),
+    url("../fonts/HelveticaRegular/HelveticaRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaBold";
+    src: url("../fonts/HelveticaBold/HelveticaBold.eot");
+    src: url("../fonts/HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaBold/HelveticaBold.woff") format("woff"),
+    url("../fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaItalic";
+    src: url("../fonts/HelveticaItalic/HelveticaItalic.eot");
+    src: url("../fonts/HelveticaItalic/HelveticaItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaItalic/HelveticaItalic.woff") format("woff"),
+    url("../fonts/HelveticaItalic/HelveticaItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaLight";
+    src: url("../fonts/HelveticaLight/HelveticaLight.eot");
+    src: url("../fonts/HelveticaLight/HelveticaLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaLight/HelveticaLight.woff") format("woff"),
+    url("../fonts/HelveticaLight/HelveticaLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaBlack";
+    src: url("../fonts/HelveticaBlack/HelveticaBlack.eot");
+    src: url("../fonts/HelveticaBlack/HelveticaBlack.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaBlack/HelveticaBlack.woff") format("woff"),
+    url("../fonts/HelveticaBlack/HelveticaBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaHeavy";
+    src: url("../fonts/HelveticaHeavy/HelveticaHeavy.eot");
+    src: url("../fonts/HelveticaHeavy/HelveticaHeavy.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaHeavy/HelveticaHeavy.woff") format("woff"),
+    url("../fonts/HelveticaHeavy/HelveticaHeavy.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaMedium";
+    src: url("../fonts/HelveticaMedium/HelveticaMedium.eot");
+    src: url("../fonts/HelveticaMedium/HelveticaMedium.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaMedium/HelveticaMedium.woff") format("woff"),
+    url("../fonts/HelveticaMedium/HelveticaMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaThin";
+    src: url("../fonts/HelveticaThin/HelveticaThin.eot");
+    src: url("../fonts/HelveticaThin/HelveticaThin.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaThin/HelveticaThin.woff") format("woff"),
+    url("../fonts/HelveticaThin/HelveticaThin.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaUltraLight";
+    src: url("../fonts/HelveticaUltraLight/HelveticaUltraLight.eot");
+    src: url("../fonts/HelveticaUltraLight/HelveticaUltraLight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaUltraLight/HelveticaUltraLight.woff") format("woff"),
+    url("../fonts/HelveticaUltraLight/HelveticaUltraLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaBoldItalic";
+    src: url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.eot");
+    src: url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.woff") format("woff"),
+    url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaBlackItalic";
+    src: url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.eot");
+    src: url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.woff") format("woff"),
+    url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaLightItalic";
+    src: url("../fonts/HelveticaLightItalic/HelveticaLightItalic.eot");
+    src: url("../fonts/HelveticaLightItalic/HelveticaLightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaLightItalic/HelveticaLightItalic.woff") format("woff"),
+    url("../fonts/HelveticaLightItalic/HelveticaLightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaMediumItalic";
+    src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot");
+    src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.woff") format("woff"),
+    url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaHeavyItalic";
+    src: url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.eot");
+    src: url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.woff") format("woff"),
+    url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaThinItalic";
+    src: url("../fonts/HelveticaThinItalic/HelveticaThinItalic.eot");
+    src: url("../fonts/HelveticaThinItalic/HelveticaThinItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaThinItalic/HelveticaThinItalic.woff") format("woff"),
+    url("../fonts/HelveticaThinItalic/HelveticaThinItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "HelveticaUltraLightItalic";
+    src: url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.eot");
+    src: url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.woff") format("woff"),
+    url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
 /* header*/
 
 .header {
@@ -46,7 +206,7 @@ body {
     width: 453px;
     height: 59px;
     color: #ffffff;
-    font-family: 'Arimo', sans-serif;
+    font-family: "HelveticaRegular", sans-serif;
     font-size: 24px;
     font-weight: 500;
     line-height: 36px;
@@ -172,33 +332,36 @@ body {
 }
 
 .feature-head1 {
-    width: 163px;
+    font-family: "Raleway", sans-serif;
+    width: 180px;
     height: 17px;
     color: #222222;
     font-size: 22px;
     font-weight: 400;
     line-height: 18px;
-    margin: 31px 0 0 295px;
+    margin: 31px 0 0 290px;
 }
 
 .feature-head2 {
-    width: 115px;
+    font-family: "Raleway", sans-serif;
+    width: 130px;
     height: 21px;
     color: #222222;
     font-size: 22px;
     font-weight: 400;
     line-height: 18px;
-    margin: 31px 0 0 295px;
+    margin: 31px 0 0 274px;
 }
 
 .feature-head3 {
-    width: 219px;
+    font-family: "Raleway", sans-serif;
+    width: 230px;
     height: 17px;
     color: #222222;
     font-size: 22px;
     font-weight: 400;
     line-height: 18px;
-    margin: 31px 0 0 270px;
+    margin: 31px 0 0 250px;
 }
 .p-features {
     display: flex;
@@ -209,6 +372,7 @@ body {
 
 
 .p-feature1 {
+    font-family: "HelveticaRegular", sans-serif;
      width: 313px;
      height: 42px;
      color: #848484;
@@ -220,6 +384,7 @@ body {
  }
 
 .p-feature2 {
+    font-family: "HelveticaRegular", sans-serif;
     width: 313px;
     height: 42px;
     color: #848484;
@@ -231,6 +396,7 @@ body {
 }
 
 .p-feature3 {
+    font-family: "HelveticaRegular", sans-serif;
     width: 313px;
     height: 42px;
     color: #848484;
@@ -242,3 +408,139 @@ body {
 }
 
 /* Section notified*/
+
+.notified {
+    height: 427px;
+    background-color: #e3e3e3;
+    display: flex;
+}
+
+.notify-section {
+    width: 535px;
+    height: 225px;
+    margin: 60px 146px 0 209px;
+}
+
+.notify-h {
+    font-family: "Raleway", sans-serif;
+    width: 350px;
+    height: 22px;
+    color: #222222;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 18px;
+    margin: 0;
+}
+
+.notify-p {
+    font-family: "HelveticaRegular", sans-serif;
+    width: 533px;
+    height: 91px;
+    color: #848484;
+    margin: 25px 0 30px 0;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+
+.video {
+    margin: 60px 0 0 0;
+    width: 540px;
+    height: 307px;
+    display: flex;
+    border-radius: 5px;
+}
+
+.presentation-video {
+    width: 540px;
+    height: 307px;
+}
+
+.notify-form {
+    display: inline-block;
+    border: 1px solid rgba(255, 255, 255);
+    background-color: #ffffff;
+    border-radius: 10px 10px 10px 10px;
+    color: #4e5159;
+    padding: 0;
+}
+
+.input-list {
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.input-li {
+    float: left;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.submit {
+    font-family: 'Raleway', serif;
+    text-decoration: none;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: #2ecc71;
+    border-radius: 0 10px 10px 0;
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 18px;
+    padding: 19px 40px 15px 30px;
+    display: inline-block;
+}
+
+.submit:hover {
+    cursor: pointer;
+    background-color: #2ecc71;
+    transition: background-color 0.5s;
+    color: #000000;
+}
+
+.email {
+    font-family: 'Helvetica', sans-serif;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    border-radius: 10px 0 0 10px;
+    color: #848484;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    padding: 19px 40px 14px 30px;
+    display: inline-block;
+}
+
+.email::-webkit-input-placeholder {
+    color: #848484;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+
+}
+
+.email::-moz-placeholder {
+    color: #848484;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+
+}
+
+.email:-ms-input-placeholder {
+    color: #848484;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+
+}
+
+.email:-moz-placeholder {
+    color: #848484;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+
+}
+
+/* section testemonial*/
