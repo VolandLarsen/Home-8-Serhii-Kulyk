@@ -1,6 +1,6 @@
 body {
     width: 1600px;
-    height: 1968px;
+    height: auto;
     margin: 0 auto;
 }
 
@@ -422,8 +422,6 @@ body {
 
 .notify-h {
     font-family: "Raleway", sans-serif;
-    width: 350px;
-    height: 22px;
     color: #222222;
     font-size: 22px;
     font-weight: 400;
@@ -461,7 +459,6 @@ body {
 
 .notify-form {
     display: inline-block;
-    border: 1px solid rgba(255, 255, 255, 1);
     background-color: #ffffff;
     border-radius: 10px 10px 10px 10px;
     color: #4e5159;
@@ -484,7 +481,7 @@ body {
 .submit {
     font-family: 'Raleway', serif;
     text-decoration: none;
-    border: 1px solid rgba(255, 255, 255, 0.5);
+    border: 1px solid #2ecc71;
     background-color: #2ecc71;
     border-radius: 0 10px 10px 0;
     color: #ffffff;
@@ -559,14 +556,12 @@ body {
 }
 
 .client-name {
-    width: 88px;
-    height: 14px;
     color: #2e2e2e;
     font-family: 'Raleway', serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 20px;
-    display: block;
+    text-align: center;
     margin: 0 auto;
 }
 
@@ -642,7 +637,7 @@ body {
 .social-list {
     display: flex;
     justify-content: center;
-    margin: 25px auto 0
+    margin: 25px auto 60px;
 }
 
 
@@ -702,3 +697,39 @@ body {
 
 /*footer section*/
 
+.footer {
+    width: 1600px;
+    margin: 0;
+    padding: 0;
+    background-color: #e3e3e3;
+}
+
+.foot-container {
+    padding: 60px 0 54px 0;
+}
+
+.footer-nav {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-a {
+    list-style-type: none;
+    margin: 0 18px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #848484;
+    font-family: "Helvetica", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.footer-link:hover {
+    color: #2ecc71;
+    transition: 0.5s;
+}
