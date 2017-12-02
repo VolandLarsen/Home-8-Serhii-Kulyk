@@ -20,7 +20,7 @@ body {
 @font-face {
     font-family: "HelveticaRegular";
     src: url("../fonts/HelveticaRegular/HelveticaRegular.eot");
-    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaRegular/HelveticaRegular.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaRegular/HelveticaRegular.woff") format("woff"),
     url("../fonts/HelveticaRegular/HelveticaRegular.ttf") format("truetype");
     font-style: normal;
@@ -30,7 +30,7 @@ body {
 @font-face {
     font-family: "HelveticaBold";
     src: url("../fonts/HelveticaBold/HelveticaBold.eot");
-    src: url("../fonts/HelveticaBold/HelveticaBold.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaBold/HelveticaBold.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaBold/HelveticaBold.woff") format("woff"),
     url("../fonts/HelveticaBold/HelveticaBold.ttf") format("truetype");
     font-style: normal;
@@ -40,7 +40,7 @@ body {
 @font-face {
     font-family: "HelveticaItalic";
     src: url("../fonts/HelveticaItalic/HelveticaItalic.eot");
-    src: url("../fonts/HelveticaItalic/HelveticaItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaItalic/HelveticaItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaItalic/HelveticaItalic.woff") format("woff"),
     url("../fonts/HelveticaItalic/HelveticaItalic.ttf") format("truetype");
     font-style: normal;
@@ -50,7 +50,7 @@ body {
 @font-face {
     font-family: "HelveticaLight";
     src: url("../fonts/HelveticaLight/HelveticaLight.eot");
-    src: url("../fonts/HelveticaLight/HelveticaLight.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaLight/HelveticaLight.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaLight/HelveticaLight.woff") format("woff"),
     url("../fonts/HelveticaLight/HelveticaLight.ttf") format("truetype");
     font-style: normal;
@@ -60,7 +60,7 @@ body {
 @font-face {
     font-family: "HelveticaBlack";
     src: url("../fonts/HelveticaBlack/HelveticaBlack.eot");
-    src: url("../fonts/HelveticaBlack/HelveticaBlack.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaBlack/HelveticaBlack.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaBlack/HelveticaBlack.woff") format("woff"),
     url("../fonts/HelveticaBlack/HelveticaBlack.ttf") format("truetype");
     font-style: normal;
@@ -70,7 +70,7 @@ body {
 @font-face {
     font-family: "HelveticaHeavy";
     src: url("../fonts/HelveticaHeavy/HelveticaHeavy.eot");
-    src: url("../fonts/HelveticaHeavy/HelveticaHeavy.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaHeavy/HelveticaHeavy.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaHeavy/HelveticaHeavy.woff") format("woff"),
     url("../fonts/HelveticaHeavy/HelveticaHeavy.ttf") format("truetype");
     font-style: normal;
@@ -80,7 +80,7 @@ body {
 @font-face {
     font-family: "HelveticaMedium";
     src: url("../fonts/HelveticaMedium/HelveticaMedium.eot");
-    src: url("../fonts/HelveticaMedium/HelveticaMedium.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaMedium/HelveticaMedium.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaMedium/HelveticaMedium.woff") format("woff"),
     url("../fonts/HelveticaMedium/HelveticaMedium.ttf") format("truetype");
     font-style: normal;
@@ -90,7 +90,7 @@ body {
 @font-face {
     font-family: "HelveticaThin";
     src: url("../fonts/HelveticaThin/HelveticaThin.eot");
-    src: url("../fonts/HelveticaThin/HelveticaThin.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaThin/HelveticaThin.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaThin/HelveticaThin.woff") format("woff"),
     url("../fonts/HelveticaThin/HelveticaThin.ttf") format("truetype");
     font-style: normal;
@@ -100,7 +100,7 @@ body {
 @font-face {
     font-family: "HelveticaUltraLight";
     src: url("../fonts/HelveticaUltraLight/HelveticaUltraLight.eot");
-    src: url("../fonts/HelveticaUltraLight/HelveticaUltraLight.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaUltraLight/HelveticaUltraLight.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaUltraLight/HelveticaUltraLight.woff") format("woff"),
     url("../fonts/HelveticaUltraLight/HelveticaUltraLight.ttf") format("truetype");
     font-style: normal;
@@ -110,7 +110,7 @@ body {
 @font-face {
     font-family: "HelveticaBoldItalic";
     src: url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.eot");
-    src: url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.woff") format("woff"),
     url("../fonts/HelveticaBoldItalic/HelveticaBoldItalic.ttf") format("truetype");
     font-style: normal;
@@ -120,7 +120,7 @@ body {
 @font-face {
     font-family: "HelveticaBlackItalic";
     src: url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.eot");
-    src: url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.woff") format("woff"),
     url("../fonts/HelveticaBlackItalic/HelveticaBlackItalic.ttf") format("truetype");
     font-style: normal;
@@ -130,7 +130,7 @@ body {
 @font-face {
     font-family: "HelveticaLightItalic";
     src: url("../fonts/HelveticaLightItalic/HelveticaLightItalic.eot");
-    src: url("../fonts/HelveticaLightItalic/HelveticaLightItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaLightItalic/HelveticaLightItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaLightItalic/HelveticaLightItalic.woff") format("woff"),
     url("../fonts/HelveticaLightItalic/HelveticaLightItalic.ttf") format("truetype");
     font-style: normal;
@@ -140,7 +140,7 @@ body {
 @font-face {
     font-family: "HelveticaMediumItalic";
     src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot");
-    src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.woff") format("woff"),
     url("../fonts/HelveticaMediumItalic/HelveticaMediumItalic.ttf") format("truetype");
     font-style: normal;
@@ -150,7 +150,7 @@ body {
 @font-face {
     font-family: "HelveticaHeavyItalic";
     src: url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.eot");
-    src: url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.woff") format("woff"),
     url("../fonts/HelveticaHeavyItalic/HelveticaHeavyItalic.ttf") format("truetype");
     font-style: normal;
@@ -160,7 +160,7 @@ body {
 @font-face {
     font-family: "HelveticaThinItalic";
     src: url("../fonts/HelveticaThinItalic/HelveticaThinItalic.eot");
-    src: url("../fonts/HelveticaThinItalic/HelveticaThinItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaThinItalic/HelveticaThinItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaThinItalic/HelveticaThinItalic.woff") format("woff"),
     url("../fonts/HelveticaThinItalic/HelveticaThinItalic.ttf") format("truetype");
     font-style: normal;
@@ -170,7 +170,7 @@ body {
 @font-face {
     font-family: "HelveticaUltraLightItalic";
     src: url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.eot");
-    src: url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.eot?#iefix") format("embedded-opentype"),
     url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.woff") format("woff"),
     url("../fonts/HelveticaUltraLightItalic/HelveticaUltraLightItalic.ttf") format("truetype");
     font-style: normal;
@@ -226,25 +226,25 @@ body {
 .app-apple {
     float: left;
     list-style-type: none;
-    margin: 0 14px 0 0 ;
+    margin: 0 14px 0 0;
     background: rgba(0, 0, 0, 0.5);
     border-radius: 100%;
     padding: 12px 17px 15px 15px;
 }
 
 .app-android {
-     float: left;
-     list-style-type: none;
-     margin: 0 14px 0 0 ;
-     background: rgba(0, 0, 0, 0.5);
-     border-radius: 100%;
-     padding: 14px 15px 14px 16px;
- }
+    float: left;
+    list-style-type: none;
+    margin: 0 14px 0 0;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 100%;
+    padding: 14px 15px 14px 16px;
+}
 
 .app-windows {
     float: left;
     list-style-type: none;
-    margin: 0 14px 0 0 ;
+    margin: 0 14px 0 0;
     background: rgba(0, 0, 0, 0.5);
     border-radius: 100%;
     padding: 14px 15px 14px 12px;
@@ -252,8 +252,8 @@ body {
 }
 
 .win-icon {
-     opacity: 0.5;
- }
+    opacity: 0.5;
+}
 
 .phone {
     float: right;
@@ -362,6 +362,7 @@ body {
     line-height: 18px;
     margin: 31px 0 0 250px;
 }
+
 .p-features {
     display: flex;
     margin: 0;
@@ -369,18 +370,17 @@ body {
     justify-content: flex-start;
 }
 
-
 .p-feature1 {
     font-family: "HelveticaRegular", sans-serif;
-     width: 313px;
-     height: 42px;
-     color: #848484;
-     font-size: 16px;
-     font-weight: 400;
-     line-height: 26px;
-     text-align: center;
-     margin: 21px 0 0 210px;
- }
+    width: 313px;
+    height: 42px;
+    color: #848484;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin: 21px 0 0 210px;
+}
 
 .p-feature2 {
     font-family: "HelveticaRegular", sans-serif;
@@ -441,7 +441,6 @@ body {
 
 }
 
-
 .video {
     margin: 60px 0 0 0;
     width: 540px;
@@ -471,6 +470,7 @@ body {
     padding: 0;
     margin: 0;
 }
+
 .input-li {
     float: left;
     list-style-type: none;
@@ -517,28 +517,24 @@ body {
     color: #848484;
     font-family: "Helvetica", sans-serif;
     font-size: 18px;
-
 }
 
 .email::-moz-placeholder {
     color: #848484;
     font-family: "Helvetica", sans-serif;
     font-size: 18px;
-
 }
 
 .email:-ms-input-placeholder {
     color: #848484;
     font-family: "Helvetica", sans-serif;
     font-size: 18px;
-
 }
 
 .email:-moz-placeholder {
     color: #848484;
     font-family: "Helvetica", sans-serif;
     font-size: 18px;
-
 }
 
 /* section testemonial*/
@@ -569,8 +565,6 @@ body {
     margin: 30px auto;
 }
 
-
-
 .client-list {
     padding: 0;
     margin: 0;
@@ -598,7 +592,7 @@ body {
 }
 
 .last {
-    box-shadow:    inset     80px 0 8px -3px rgba(255, 255, 255, 0.75);
+    box-shadow: inset 80px 0 8px -3px rgba(255, 255, 255, 0.75);
 }
 
 /* say hi section*/
@@ -639,7 +633,6 @@ body {
     justify-content: center;
     margin: 25px auto 60px;
 }
-
 
 .social-li-1 {
     list-style-type: none;
